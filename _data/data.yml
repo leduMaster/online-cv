@@ -148,22 +148,22 @@ skills:
 
     toolset:
       - name: .NET and C#
-        #level: 98%
+        level: 98%
 
       - name: Network administration
-        #level: 90%
+        level: 90%
 
       - name: VM's
-        #level: 88%
+        level: 88%
 
       - name: HTML5 & CSS
-        #level: 95%
+        level: 95%
 
       - name: Ruby on Rails
-        #level: 85%
+        level: 85%
 
       - name: Sketch & Photoshop
-        #level: 60%
+        level: 60%
 
-#footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
