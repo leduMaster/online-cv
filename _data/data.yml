@@ -14,11 +14,7 @@ sidebar:
     # Sidebar links
     email: dn.1995@hotmail.com
     phone: 064 944 54 14
-    timezone: 
-    citizenship:
-    #website: blog.webjeda.com #do not add http://
     linkedin: nikolic-dusan
-    #xing: alandoe
     github: leduMaster
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -44,28 +40,29 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm Dušan, software developer
+      from Serbia. Proficient in
+      ASP.NET, and I enjoy using my
+      problem-solving skills. Eager to
+      obtain a challenging position at
+      a prestigious company that will
+      expand my learning and build upon my skills
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BASc in WEB Development 
+        university: University of Belgrade, ICT College
+        time: Year of graduation - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Learned .NET, PHP, MVC, Laravel, C#, C++, HTML, CSS, JS, Angular
+          Beside Web Development was taking classes in Linux Cloud,
+          VOIP and Cisco network solutions          
             - Bullet point
-            - Bullet point
+            - Bullet point Final exam theme: Microservices
+            
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
@@ -151,22 +148,22 @@ skills:
 
     toolset:
       - name: .NET and C#
-        level: 98%
+        #level: 98%
 
       - name: Network administration
-        level: 90%
+        #level: 90%
 
       - name: VM's
-        level: 88%
+        #level: 88%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
-footer: >
+#footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
