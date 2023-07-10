@@ -16,7 +16,7 @@ sidebar:
     phone: 064 944 54 14
     linkedin: nikolic-dusan
     github: leduMaster
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://ledumaster.github.io/online-cv/print
 
     languages:
       title: Languages
@@ -59,27 +59,18 @@ education:
         details: |
           Learned .NET, PHP, MVC, Laravel, C#, C++, HTML, CSS, JS, Angular
           Beside Web Development was taking classes in Linux Cloud,
-          VOIP and Cisco network solutions          
-            - Bullet point
-            - Bullet point Final exam theme: Microservices
+          VOIP and Cisco network solutions
             
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Administrator of computer networks
+        university: Technical School
+        time: 2010 - 2014
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software support and service technician 
+        time: 2021 - Present
+        company: BUZZ IT D.O.O
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +83,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Implementation Engineer of passive optical network
+        time: 2018
+        company: Roaming Networks
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,9 +109,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I've done many projects, some as the pre exam obligations, some for clients and most of them for myself, fulfilling my need of doing reverse engineering and learning how things work. 
+      Rewarding me with great knowledge and hands-on experience on embedded systems, protocols and development.
     assignments:
       - title: Velocity
         link: "#hook"
