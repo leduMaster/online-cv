@@ -92,7 +92,7 @@ projects:
       Rewarding me with great knowledge and hands-on experience on embedded systems, protocols and development.
     assignments:
       - title: Melio
-        link: "#hook"
+        link: ""
         tagline: "A website designed to help advertise, market and sell their products."
 
       - title: DN LED Control
@@ -101,15 +101,24 @@ projects:
 
       - title: AC Control
         link: "https://github.com/leduMaster/AC-Control"
-        tagline: ".NET MVC application which "
+        tagline: ".NET MVC application which emulate IR remote controll using NEC ITP"
 
       - title: KOR
         link: "https://github.com/leduMaster/KOR"
-        tagline: ""
+        tagline: "Active adapter for protocol communication between two different embedded systems"
 
       - title: Blog Site
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "https://github.com/leduMaster/Blog-Site"
+        tagline: "Blog website using Laravel 5 MVC, Ajax, JS"
+        
+      - title: Microservices
+        link: ""
+        tagline: "Running software containers using Docker technology as college final exam"
+        
+      - title: Angular promotional website
+        link: "https://github.com/leduMaster/Angular-Project-1"
+        tagline: "My first project using angular and firebase"
+        
 
 
 skills:
@@ -129,4 +138,4 @@ skills:
         level: 75%
 
       - name: Learning new skills
-        level: 85%
+        level: 95%
